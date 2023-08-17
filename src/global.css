@@ -1,0 +1,147 @@
+html,
+body {
+  height: 100%;
+  margin: 0; /* This removes any default margin */
+  padding: 0; /* This removes any default padding */
+}
+.Background {
+  width: 100%;
+  height: 100%;
+  background-color: #f9fafc;
+  /* background-color: black; */
+}
+
+.ComponentHeader {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.Header {
+  width: 1440px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Background {
+  width: 1440px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.ElementBottomBorder {
+  width: 1440px;
+  height: 1px;
+  left: 0px;
+  top: 89px;
+  position: absolute;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.BottomBorder {
+  width: 1440px;
+  height: 1px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #ebebeb;
+}
+
+.MenuIcon {
+  width: 27px;
+  height: 16px;
+  left: 1373px;
+  top: 37px;
+  position: absolute;
+}
+
+.Navigation {
+  width: 805px;
+  height: 21px;
+  left: 156px;
+  top: 34px;
+  position: absolute;
+}
+
+/* Added styles for navigation links */
+.Technology,
+.News,
+.Finance,
+.Video,
+.Ideas,
+.Entertainment,
+.Leadership {
+  position: absolute;
+  opacity: 0.2;
+  font-family: Oswald;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.75px;
+  word-wrap: break-word;
+  color: #1d1f24;
+  font-size: 14px;
+}
+
+.Technology {
+  left: 0px;
+}
+.News {
+  left: 485px;
+}
+.Finance {
+  left: 580px;
+}
+.Video {
+  left: 386px;
+}
+.Ideas {
+  left: 147px;
+}
+.Entertainment {
+  left: 696px;
+}
+.Leadership {
+  left: 245px;
+}
+
+.Logo {
+  width: 60px;
+  height: 30px;
+  left: 38px;
+  top: 28px;
+  position: absolute;
+}
+
+.Deck {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #1d1f24;
+  font-size: 24px;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.ElementShape {
+  width: 4px;
+  height: 4px;
+  left: 56px;
+  top: 20px;
+  position: absolute;
+}
+
+.ElementShape .Background {
+  width: 4px;
+  height: 4px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #ff565c;
+}
