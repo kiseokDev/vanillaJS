@@ -1,0 +1,340 @@
+.HomepageB {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: white;
+}
+
+.Background {
+  width: 1445px;
+  height: 1353px;
+  left: 0px;
+  top: 90px;
+  position: absolute;
+  background: #f9fafc;
+}
+
+.Card {
+  width: 316px;
+  height: 274px;
+  left: 736px;
+  top: 1049px;
+  position: absolute;
+}
+
+.Img {
+  width: 316px;
+  height: 274px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Base {
+  width: 316px;
+  height: 274px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #1d1f24;
+}
+
+.Crew22235 {
+  width: 416px;
+  height: 277px;
+  left: -51px;
+  top: 0px;
+  position: absolute;
+  opacity: 0.4;
+}
+
+.Footer {
+  width: 185px;
+  height: 30px;
+  left: 28px;
+  top: 223px;
+  position: absolute;
+}
+
+.Icon {
+  width: 20px;
+  height: 20px;
+  left: 0px;
+  top: 6px;
+  position: absolute;
+}
+
+.SearchEngineOptimi {
+  width: 245px;
+  left: 25px;
+  top: 92px;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.Category {
+  width: 104px;
+  height: 40px;
+  left: 0px;
+  top: 30px;
+  position: absolute;
+}
+
+.ElementShape {
+  width: 104px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Gaming {
+  left: 25px;
+  top: 9px;
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  font-family: Oswald;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.75px;
+  word-wrap: break-word;
+}
+
+/*2nd card*/
+.Card {
+  width: 317px;
+  height: 580px;
+  left: 40px;
+  top: 743px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 316px;
+  height: 580px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+  border: 0.5px #f2f3f6 solid;
+}
+
+.FeaturedStories {
+  left: 27.5px;
+  top: 35px;
+  position: absolute;
+  color: #1d1f24;
+  font-size: 14px;
+  font-family: Oswald;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.53px;
+}
+
+.Group4,
+.Group3,
+.Group2,
+.Group {
+  position: absolute;
+  width: 316px;
+}
+
+.Group4 {
+  height: 83px;
+  left: 1px;
+  top: 86px;
+}
+
+.Group3 {
+  height: 76px;
+  left: 1px;
+  top: 194px;
+}
+
+.Group2 {
+  height: 74px;
+  left: 1px;
+  top: 294px;
+}
+
+.Group {
+  height: 81px;
+  left: 1px;
+  top: 395px;
+}
+
+.GroupCopy {
+  width: 266px;
+  height: 52px;
+  left: 28px;
+  top: 495px;
+  position: absolute;
+}
+
+.Rectangle,
+.RectangleCopy,
+.RectangleCopy3,
+.RectangleCopy2 {
+  width: 316px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  background: #f2f3f6;
+}
+
+.RectangleCopy {
+  top: 75px;
+}
+
+.RectangleCopy3 {
+  top: 73px;
+}
+
+.RectangleCopy2 {
+  top: 80px;
+}
+
+/*3rd card*/
+.Card {
+    width: 316px;
+    height: 274px;
+    left: 1084px;
+    top: 1049px;
+    position: absolute;
+}
+
+.Img {
+    width: 316px;
+    height: 274px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.Base {
+    width: 316px;
+    height: 274px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #1D1F24;
+}
+
+.DoseMedia344938 {
+    width: 420px;
+    height: 280px;
+    left: -64px;
+    top: -1px;
+    position: absolute;
+    opacity: 0.40;
+}
+
+.Footer {
+    width: 185px;
+    height: 30px;
+    left: 28px;
+    top: 223px;
+    position: absolute;
+}
+
+.Comments, .Views, .Share {
+    height: 30px;
+    position: absolute;
+}
+
+.Comments {
+    width: 46px;
+    left: 139px;
+    top: 0px;
+}
+
+.Comments div, .Views div, .Share div {
+    color: white;
+    font-size: 13px;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 30px;
+    word-wrap: break-word;
+    position: absolute;
+}
+
+.Views {
+    width: 54px;
+    left: 68px;
+    top: 0px;
+}
+
+.Share {
+    width: 52px;
+    left: 0px;
+    top: 0px;
+}
+
+.Icon.Share {
+    width: 18px;
+    height: 15px;
+    left: 18px;
+    top: 8px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    background: white;
+}
+
+.WhereToFindUnique {
+    width: 245px;
+    left: 25px;
+    top: 89px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Lato;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+.Category {
+    width: 137px;
+    height: 40px;
+    left: 0px;
+    top: 30px;
+    position: absolute;
+}
+
+.ElementShape {
+    width: 137px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.Background.Category {
+    width: 137px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FF565C;
+}
+
+.Technology {
+    left: 25px;
+    top: 9px;
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    font-family: Oswald;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1.75px;
+    word-wrap: break-word;
+}
+
+/*4th card*/
